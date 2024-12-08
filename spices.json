@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Cinnamon",
+      "description": "Warm and sweet, perfect for baking.",
+      "img": "https://via.placeholder.com/300x200?text=Cinnamon",
+      "price": "$5"
+    },
+    {
+      "id": 2,
+      "title": "Turmeric",
+      "description": "Earthy and bold, great for curries.",
+      "img": "https://via.placeholder.com/300x200?text=Turmeric",
+      "price": "$7"
+    },
+    {
+      "id": 3,
+      "title": "Paprika",
+      "description": "Smoky and versatile for many dishes.",
+      "img": "https://via.placeholder.com/300x200?text=Paprika",
+      "price": "$6"
+    },
+    {
+      "id": 4,
+      "title": "Cardamom",
+      "description": "Aromatic and perfect for desserts and teas.",
+      "img": "https://via.placeholder.com/300x200?text=Cardamom",
+      "price": "$10"
+    }
+  ]
+  
